@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SethR\\source\\repos\\SampleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\logic\\products\\updateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\logic\\products\\updateproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\logic\\products\\getproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\logic\\products\\getproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\logic\\products\\getproductlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\logic\\products\\getproductlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\logic\\products\\deleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\logic\\products\\deleteproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\logic\\products\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\logic\\products\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\getproductlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\getproductlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\deleteproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\responses\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\responses\\addproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\requests\\voidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\requests\\voidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\requests\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\requests\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\requests\\getproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\requests\\getproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\requests\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\requests\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|c:\\users\\sethr\\source\\repos\\sampleapi\\sampleapi\\common\\requests\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A569F-FE68-449B-9B2A-A2E73D486AAB}|SampleApi\\SampleApi.csproj|solutionrelative:sampleapi\\common\\requests\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SampleApi\\Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:07:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductService.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\UpdateProductService.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Logic\\Products\\UpdateProductService.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\UpdateProductService.cs",
+              "RelativeToolTip": "SampleApi\\Logic\\Products\\UpdateProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:06:06.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductService.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\GetProductService.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Logic\\Products\\GetProductService.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\GetProductService.cs",
+              "RelativeToolTip": "SampleApi\\Logic\\Products\\GetProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:06:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductListService.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\GetProductListService.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Logic\\Products\\GetProductListService.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\GetProductListService.cs",
+              "RelativeToolTip": "SampleApi\\Logic\\Products\\GetProductListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:06:03.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteProductService.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\DeleteProductService.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Logic\\Products\\DeleteProductService.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\DeleteProductService.cs",
+              "RelativeToolTip": "SampleApi\\Logic\\Products\\DeleteProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductService.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\AddProductService.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Logic\\Products\\AddProductService.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Logic\\Products\\AddProductService.cs",
+              "RelativeToolTip": "SampleApi\\Logic\\Products\\AddProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:13.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\GetProductResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\GetProductResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\GetProductResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\GetProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetProductListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\GetProductListResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\GetProductListResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\GetProductListResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\GetProductListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:09.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\ErrorResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\UpdateProductResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\UpdateProductResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\UpdateProductResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\UpdateProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:10:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\DeleteProductResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\DeleteProductResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\DeleteProductResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\DeleteProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\AddProductResponse.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Responses\\AddProductResponse.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Responses\\AddProductResponse.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Responses\\AddProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VoidRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\VoidRequest.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Requests\\VoidRequest.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\VoidRequest.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Requests\\VoidRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:05:02.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Requests\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\UpdateProductRequest.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Requests\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:37:19.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\GetProductRequest.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Requests\\GetProductRequest.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\GetProductRequest.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Requests\\GetProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:37:18.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\DeleteProductRequest.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Requests\\DeleteProductRequest.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\DeleteProductRequest.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Requests\\DeleteProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:04:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "SampleApi\\Common\\Requests\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\SethR\\source\\repos\\SampleApi\\SampleApi\\Common\\Requests\\AddProductRequest.cs",
+              "RelativeToolTip": "SampleApi\\Common\\Requests\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:01:19.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
